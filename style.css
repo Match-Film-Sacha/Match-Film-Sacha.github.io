@@ -1,0 +1,18 @@
+@font-face
+{
+	font-family : "Name";
+	src : url('fonts/AvenirLTStd-Medium.otf');
+}
+@font-face
+{
+	font-family : "Discussion";
+	src : url('fonts/AvenirLTStd-Light.otf');
+}
+.Name
+{
+	font-family: "Name";
+}
+.Discussion
+{
+	font-family: "Discussion";
+}
